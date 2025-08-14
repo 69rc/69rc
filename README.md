@@ -17,8 +17,8 @@ I'm a passionate developer skilled across web, mobile, and backend technologies.
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phisherman-0&hide_border=true&layout=compact" width="42%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=phisherman-0&show_icons=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69rc&hide_border=true&layout=compact" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=69rc&show_icons=true&count_private=true&hide_border=true" width="48%" />
 </p>
 
 ---
