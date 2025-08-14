@@ -7,10 +7,22 @@ Welcome to my GitHub profile!
 I'm a passionate developer skilled across web, mobile, and backend technologies. I love building, learning, and collaborating on cool projects.
 
 ### 🛠️ Top Skills & Technologies
-- **Languages:** JavaScript, TypeScript, Python, Go
-- **Frontend:** React, React Native, SCSS, Tailwind CSS, HTML, CSS
-- **Backend:** Node.js
-- **Databases:** MySQL, MongoDB, PostgreSQL, Oracle
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
+
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phisherman-0&hide_border=true&layout=compact" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phisherman-0&show_icons=true&count_private=true&hide_border=true" width="48%" />
+</p>
+
+---
+
 
 ### 🌟 Favorite Project
 - [mylikita](https://github.com/69rc/mylikita) — My standout project, check it out!
@@ -20,11 +32,8 @@ I'm a passionate developer skilled across web, mobile, and backend technologies.
 - Reading
 
 ### 🌐 Connect With Me
-- [Facebook](https://facebook.com/69rc)
-- [Instagram](https://instagram.com/69rc)
-- [LinkedIn](https://linkedin.com/in/69rc)
-- [Zangi](https://zangi.com/69rc)
-- [X (Twitter)](https://x.com/69rc)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![X (formerly Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/)  
 
 ---
 
