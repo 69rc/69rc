@@ -18,7 +18,7 @@ I'm a passionate developer skilled across web, mobile, and backend technologies.
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69rc&hide_border=true&layout=compact" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=emitee&show_icons=true&count_private=true&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=69rc&show_icons=true&count_private=true&hide_border=true" width="50%" />
 </p>
 
 ---
