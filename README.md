@@ -1,4 +1,4 @@
-# Hi there 👋, I'm 69rc
+# Hi there 👋, I'm Skengy
 
 Welcome to my GitHub profile!
 
